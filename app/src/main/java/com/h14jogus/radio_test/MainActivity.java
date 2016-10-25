@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity implements RadioListener{
         // Halllllllo
         // moj
 
+        // Anders här
+
         radioManager.registerListener(this);
         radioManager.enableNotification(true);
 
