@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity implements RadioListener{
         setContentView(R.layout.activity_main);
 
         // Halllllllo
+        // moj
 
         radioManager.registerListener(this);
         radioManager.enableNotification(true);
